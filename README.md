@@ -1,4 +1,4 @@
-AI-Powered SQL Query Generator – Project Overview
+##AI-Powered SQL Query Generator – Project Overview
 📌 Project Summary
 
 This project is a GenAI-powered SQL Query Generator built using:
